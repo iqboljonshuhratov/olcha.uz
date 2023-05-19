@@ -1,0 +1,17 @@
+.searchbar{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+.searchbar input{
+    border: 0;
+    outline: 0;
+}
+
+.badge {
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    border-radius: 20px;
+}
