@@ -33,7 +33,7 @@ class Header extends Component {
               className="ms-4 btn"
               onClick={() => this.props.changeHide(false)}
             >
-              Katalog
+              каталог
             </button>
             <div className="d-flex align-items-center searchbar ms-4">
               <input
