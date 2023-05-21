@@ -12,7 +12,7 @@ class ProductCard extends Component{
       <p className='price mb-2'>{price} som</p>
       <p className='priceMonth'>{priceMonth} so'm</p>
       <p className='title'>{title}</p>
-      <a href="#" className="btn" onClick={buy}>kupit</a>
+      <a href="#" className="btn" onClick={buy}>купить</a>
       </div>
     }
   }
